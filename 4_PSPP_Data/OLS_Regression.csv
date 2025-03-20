@@ -1,0 +1,19 @@
+Table: Model Summary (Women_Business_and_the_Law_Entrepreneurship_Indicator_Score)
+R,R Square,Adjusted R Square,Std. Error of the Estimate
+.42,.18,.15,13.00
+
+Table: ANOVA (Women_Business_and_the_Law_Entrepreneurship_Indicator_Score)
+,Sum of Squares,df,Mean Square,F,Sig.
+Regression,5061.03,5,1012.21,5.99,.000
+Residual,23138.27,137,168.89,,
+Total,28199.30,142,,,
+
+Table: Coefficients (Women_Business_and_the_Law_Entrepreneurship_Indicator_Score)
+,Unstandardized Coefficients,,Standardized Coefficients,t,Sig.,95% Confidence Interval for B,
+,B,Std. Error,Beta,,,Lower Bound,Upper Bound
+(Constant),96.86,3.23,.00,29.96,.000,90.47,103.26
+Borrowed_to_start_operate_or_expand_a_farm_or_business_age,-.76,.34,-.26,-2.25,.026,-1.42,-.09
+Cost_of_business_start_up_procedures_of_GNI_per_capita_201,-.05,.03,-.17,-1.83,.070,-.10,.00
+Saved_to_Start_Operate_or_Expand_a_Farm_or_Business_age_15,.08,.23,.04,.34,.732,-.37,.53
+Start_up_procedures_to_register_a_business_number_2017,-1.17,.44,-.27,-2.66,.009,-2.04,-.30
+Time_required_to_start_a_business_days_2017,.10,.05,.20,1.92,.057,.00,.20
