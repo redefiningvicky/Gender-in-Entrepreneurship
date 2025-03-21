@@ -1,5 +1,6 @@
 # 🤝 Gender in Entrepreneurship
 ## 🎯 Objective <br>
+This project analyzes the impact of both dependent and independent variables on women’s entrepreneurship globally, using Microsoft Excel and PSPP for Descriptive Statistics, Bivariate Correlations, and Ordinary Least Squares Regression. It examines the conditions for women entrepreneurs across global economies by evaluating five independent variables: borrowing, costs, savings, procedures, and time required to start a business, and their effect on the dependent variable, the Women, Business, and the Law: Entrepreneurship Indicator Score. The analysis is aligned with the United Nations Sustainable Development Goals (SDGs) #5 (Gender Equality) and #8 (Decent Work and Economic Growth).
 ## 🛠️ Tools <br>
 • <b>Microsoft:</b> Microsoft Excel <p>
 • <b>Analysis:</b> PSPP <p>
