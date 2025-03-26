@@ -1,6 +1,6 @@
 # 🤝 Gender in Entrepreneurship
 ## 🎯 Objective <br>
-This project analyzes the impact of both dependent and independent variables on women’s entrepreneurship globally. It examines conditions for women entrepreneurs across global economies by evaluating five independent variables: borrowing, costs, savings, procedures, and time required to start a business, and their effect on the dependent variable, the Women, Business, and the Law: Entrepreneurship Indicator Score. The analysis aligns with the United Nations Sustainable Development Goals (SDGs) #5 (Gender Equality) and #8 (Decent Work and Economic Growth). <p>
+This project analyzes the impact of independent variables—borrowing, costs, savings, procedures, and time to start a business—on women’s entrepreneurship globally, using the Women, Business, and the Law: Entrepreneurship Indicator Score as the dependent variable. It aligns with the United Nations Sustainable Development Goals #5 (Gender Equality) and #8 (Decent Work and Economic Growth). <p>
 ## 🛠️ Tools <br>
 • <b>Microsoft:</b> Microsoft Excel <p>
 • <b>Analysis:</b> PSPP <p>
